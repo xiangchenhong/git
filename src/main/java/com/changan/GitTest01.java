@@ -7,5 +7,6 @@ public class GitTest01 {
         System.out.println("熬过了多久患难，湿了多长眼眶，才能知道伤感是爱的遗产");
         System.out.println("hot-fix");
         System.out.println("master22222222222222");
+        System.out.println("hot-fix22222222222");
     }
 }
