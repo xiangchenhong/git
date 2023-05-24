@@ -6,5 +6,6 @@ public class GitTest01 {
         System.out.println("感情是用来浏览，还是用来珍藏，好让日子天天都过得难忘");
         System.out.println("熬过了多久患难，湿了多长眼眶，才能知道伤感是爱的遗产");
         System.out.println("hot-fix");
+        System.out.println("master22222222222222");
     }
 }
